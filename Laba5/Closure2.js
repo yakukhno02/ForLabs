@@ -22,13 +22,13 @@ arr.push('first');
 arr.push('second');
 arr.push('third');
 
-console.log(arr(0)); // Выводит: first
-console.log(arr(1)); // Выводит: second
-console.log(arr(2)); // Выводит: third
+console.log(arr(0)); // Виводить: first
+console.log(arr(1)); // Виводить: second
+console.log(arr(2)); // Виводить: third
 
-console.log(arr.pop()); // Выводит: third
-console.log(arr.pop()); // Выводит: second
-console.log(arr.pop()); // Выводит: first
+console.log(arr.pop()); // Виводить: third
+console.log(arr.pop()); // Виводить: second
+console.log(arr.pop()); // Виводить: first
 
-console.log(arr.pop()); // Выводит: undefined
+console.log(arr.pop()); // Виводить: undefined
 
