@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efaaa504-a881-4c37-b66c-f5b72ed91fb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Reusable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises.ru.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.ua.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises.ua.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-let.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-let.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-const.js" beforeDir="false" afterPath="$PROJECT_DIR$/2-const.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/3-hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-range.js" beforeDir="false" afterPath="$PROJECT_DIR$/4-range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-range-odd.js" beforeDir="false" afterPath="$PROJECT_DIR$/5-range-odd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-calculate.js" beforeDir="false" afterPath="$PROJECT_DIR$/6-calculate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/7-objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-create.js" beforeDir="false" afterPath="$PROJECT_DIR$/8-create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/9-array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-hash.js" beforeDir="false" afterPath="$PROJECT_DIR$/a-hash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/1-identifiers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/1-identifiers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/2-loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/2-loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/3-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/3-function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/4-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/4-object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/5-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/5-array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/6-hash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/6-hash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/1-let.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/1-let.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/2-const.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/2-const.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/3-hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/3-hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/4-range.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/4-range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/5-range-odd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/5-range-odd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/6-calculate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/6-calculate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/7-objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/7-objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/8-create.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/8-create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/9-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/9-array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/a-hash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/a-hash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yakukhno02"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HowProgrammingWorks/Reusable.git",
+    "accountId": "021e86ef-967d-4794-bb3a-ccdf870acae2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2q1FyiNELbEv15TC0tUnac4W9Ab" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.1-let.js.executor": "Run",
+    "Node.js.2-const.js.executor": "Run",
+    "Node.js.6-calculate.js.executor": "Run",
+    "Node.js.a-hash.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/ykmshhh/Reusable/Exercises",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efaaa504-a881-4c37-b66c-f5b72ed91fb1" name="Changes" comment="" />
+      <created>1733822430825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733822430825</updated>
+      <workItem from="1733822431854" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
