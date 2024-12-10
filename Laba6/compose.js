@@ -52,5 +52,5 @@ composed.on('error', (error) => {
 });
 
 console.log(composed(2)); // Результат: 17
-console.log(composed('two')); // Результат: undefined
+console.log(composed('two')); // Результат: undefined && error
 
